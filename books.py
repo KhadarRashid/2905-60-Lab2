@@ -1,6 +1,6 @@
 
 class Author:
-    #Initializing the variables need
+    #Initializing the varables needed
     def __init__(self, name):
 	    self.name = name
         #turning the list into a set to avoid the possibilities of duplicates
